@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sns45/assayward/releases/download/v0.1.0/assayward_windows_amd64.zip",
+            "bin": [
+                "assayward.exe"
+            ],
+            "hash": "e2b3017b5d9becf62dabbebb666bb062cac9cc1a546d219160203e589e03d26d"
+        }
+    },
+    "homepage": "https://github.com/sns45/assayward",
+    "license": "Apache-2.0",
+    "description": "Evaluate supply-chain evidence against a declarative policy"
+}
