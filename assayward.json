@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sns45/assayward/releases/download/v0.1.0/assayward_windows_amd64.zip",
+            "url": "https://github.com/sns45/assayward/releases/download/v0.2.0/assayward_windows_amd64.zip",
             "bin": [
                 "assayward.exe"
             ],
-            "hash": "e2b3017b5d9becf62dabbebb666bb062cac9cc1a546d219160203e589e03d26d"
+            "hash": "1190d291dffdbfc0946d842d0a288cf56bfb1ae7b04bf1aa59fb30814879d216"
         }
     },
     "homepage": "https://github.com/sns45/assayward",
